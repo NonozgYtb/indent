@@ -1,5 +1,5 @@
 <?php
-namespace NonozgYtb\Dindent;
+namespace NonozgYtb\Indent;
 
 /**
  * @link https://github.com/nonozgytb/dintent for the canonical source repository

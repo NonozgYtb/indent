@@ -1,14 +1,14 @@
 {
-	"name": "nonozgytb/dindent",
+	"name": "nonozgytb/indent",
 	"version": "2.0.2",
 	"description": "HTML indentation library for development and testing.",
 	"keywords": ["HTML", "indent", "format"],
-	"homepage": "https://github.com/nonozgytb/dindent",
+	"homepage": "https://github.com/nonozgytb/indent",
 	"type": "library",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "NonozgYtb",
+			"name": "NonozgYtb"
 		}
 	],
 	"require": {
@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"NonozgYtb\\Dindent\\": "src/"
+			"NonozgYtb\\Indent\\": "src/"
 		}
 	}
 }
